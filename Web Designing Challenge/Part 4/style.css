@@ -1,0 +1,55 @@
+button{
+    background:green;
+    color: #fff;
+   
+}
+
+#para1{
+    color: black;
+    background:yellow;
+    text-align: left;
+    text-decoration-line: underline;
+    text-decoration-color:crimson;
+    text-decoration-style: solid;
+    text-decoration-thickness: 5px;
+    text-shadow:  0 0 3px #ff0000, 0 0 5px #0000ff;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#para2{
+    color: hotpink;
+    font-size: 35px;
+}
+
+.content{
+    color: darkred;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.outer-box{
+    width: 300px;
+    height: 200px;
+    background: green;
+    color: #fff;
+    border: 5px solid;
+    border-color: #ff0000;
+}
+
+.box{
+    margin-left: 100px;
+    padding-left: 50px;
+
+
+}
+
+.inner-div{
+    margin: 10px;
+    background: lightcoral;
+    width: 200px;
+    height: 100px;
+
+}
